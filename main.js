@@ -43,7 +43,7 @@ document.addEventListener('click',(event)=>
                 minutosTag.innerText=minutos;
             }
             segundosTag.innerText=segundos;
-        },1000);
+        },2000);
     }
     if(banderaPausa&&banderaStart&&!banderaStartAux)
     {
